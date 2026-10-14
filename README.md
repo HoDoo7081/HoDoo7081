@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/HoDoo7081/dooho-dev-portfolio/main/docs/banner.png" alt="Doo Ho Ahn — Product & Backend Design Portfolio" width="100%">
+<img src="https://raw.githubusercontent.com/HoDoo7081/dooho-dev-portfolio/main/docs/banner-v2.png" alt="Doo Ho Ahn — Product & Backend Design Portfolio" width="100%">
 
 </div>
 
